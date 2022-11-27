@@ -1,2 +1,2 @@
-# cgbcom
-Site for portfolio, resume, and blog
+# chrisgbradley.com
+A site for my personal portfolio, resume, and blog.
